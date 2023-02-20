@@ -4,7 +4,7 @@
 <a href="https://dsc.gg/Spicycode"><img src="https://github.com/Spicy1Code/QR-Code-Generator/blob/main/img/ScreenShot%202033-02-19.png" alt="SPICYCODE Developer" width="1000"></a>
 
 ## Snow-Rain :
-You can find the source code on link : https://github.com/Spicy1Code/Snow-Rain
+You can find the main theme on here : https://github.com/Spicy1Code/Snow-Rain
 
 ### Our YouTube :
 
